@@ -8,7 +8,7 @@ INJECTED from C:\Maxwork\Educational activities\Android\Lectures\4. Storages & P
 INJECTED from C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\RawResources\app\src\main\AndroidManifest.xml:2:1-21:12
 INJECTED from C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\RawResources\app\src\main\AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\RawResources\app\src\main\AndroidManifest.xml:3:5-31
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\RawResources\app\src\main\AndroidManifest.xml:3:5-33
 		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\RawResources\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\RawResources\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -27,12 +27,12 @@ ADDED from C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Perm
 		ADDED from C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\RawResources\app\src\main\AndroidManifest.xml:9:9-41
 	android:icon
 		ADDED from C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\RawResources\app\src\main\AndroidManifest.xml:8:9-45
-activity#com.niit.android.RawResourceActivity
+activity#com.niit.resources.RawResourceActivity
 ADDED from C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\RawResources\app\src\main\AndroidManifest.xml:10:9-18:20
 	android:label
 		ADDED from C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\RawResources\app\src\main\AndroidManifest.xml:12:13-45
 	android:name
-		ADDED from C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\RawResources\app\src\main\AndroidManifest.xml:11:13-48
+		ADDED from C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\RawResources\app\src\main\AndroidManifest.xml:11:13-66
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Maxwork\Educational activities\Android\Lectures\4. Storages & Permissions\RawResources\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN

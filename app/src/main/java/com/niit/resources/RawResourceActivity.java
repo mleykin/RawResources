@@ -1,4 +1,4 @@
-package com.niit.android;
+package com.niit.resources;
 
 import java.io.InputStream;
 import java.util.ArrayList;
